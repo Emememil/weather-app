@@ -28,9 +28,11 @@ Check out the live version here:
 
 1. Clone the repository:
 
-## Author
-**Emil Kalathil**
+## 👤 Author
 
-- 💼 LinkedIn: [emil-w](https://www.linkedin.com/in/emil-w)
-- 📬 Email: emilwilliam66@gmail.com
+**Emil Kalathil**  
+📧 emilwilliam66@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/emil-w)  
+💻 [GitHub](https://github.com/Emememil)
 
+---
