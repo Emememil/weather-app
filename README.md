@@ -32,7 +32,7 @@ Check out the live version here:
 
 **Emil Kalathil**  
 📧 emilwilliam66@gmail.com  
-🔗 [LinkedIn] (https://www.linkedin.com/in/emil-w-/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/emil-w-/)  
 💻 [GitHub](https://github.com/Emememil)
 
 ---
